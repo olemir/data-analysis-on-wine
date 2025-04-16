@@ -1,0 +1,3 @@
+# config/settings.yaml
+data_path_wine_red: "data/wine+quality/winequality-red.csv"
+data_path_wine_white: "data/wine+quality/winequality-white.csv"
